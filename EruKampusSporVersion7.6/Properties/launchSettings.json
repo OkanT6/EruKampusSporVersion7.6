@@ -6,7 +6,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "my_url_is_a_sensitive_data", // Yerel bağlantı URL'si
+      "applicationUrl": "my_url_is_a_sensitive_data", 
       "sslPort": 44305
     }
   },
@@ -16,7 +16,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "my_url_is_a_sensitive_data", // Yerel bağlantı URL'si
+      "applicationUrl": "my_url_is_a_sensitive_data",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
@@ -26,7 +26,7 @@
       "dotnetRunMessages": true,
       "launchBrowser": true,
       "launchUrl": "swagger",
-      "applicationUrl": "my_url_is_a_sensitive_data", // Yerel bağlantı URL'si
+      "applicationUrl": "my_url_is_a_sensitive_data", 
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
